@@ -251,6 +251,7 @@ PRODUCT_PACKAGES += \
     libwfdutils_proprietary \
     libasphere \
     libhwdap \
+    libmisoundfx \
     libshoebox \
     libswgamedap \
     libswvqe \
