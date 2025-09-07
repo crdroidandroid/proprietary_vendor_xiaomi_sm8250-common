@@ -3877,6 +3877,7 @@ cc_prebuilt_library_shared {
                 "vendor.dolby.hardware.dms@2.0",
                 "libdeccfg",
                 "libstagefright_foundation-v33",
+                "libstagefright_foundation",
                 "libutils",
                 "libcutils",
                 "liblog",
@@ -3912,6 +3913,7 @@ cc_prebuilt_library_shared {
                 "libdeccfg",
                 "libstagefright_omx",
                 "libstagefright_softomx",
+                 "libstagefright_foundation",
                 "libstagefright_foundation-v33",
                 "libutils",
                 "libcutils",
@@ -3942,6 +3944,7 @@ cc_prebuilt_library_shared {
             ],
             shared_libs: [
                 "libstagefright_softomx",
+                 "libstagefright_foundation",
                 "libstagefright_foundation-v33",
                 "libutils",
                 "liblog",
@@ -6942,6 +6945,7 @@ cc_prebuilt_library_shared {
             ],
             shared_libs: [
                 "libutils",
+                 "libstagefright_foundation",
                 "libstagefright_foundation-v33",
                 "liblog",
                 "libxml2",
