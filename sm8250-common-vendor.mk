@@ -256,6 +256,7 @@ PRODUCT_PACKAGES += \
     libqcreverb \
     libqcvirt \
     libshoebox \
+    libswdap \
     libswgamedap \
     libswvqe \
     vendor.qti.hardware.wifidisplaysession@1.0_vendor \
