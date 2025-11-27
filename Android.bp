@@ -12884,6 +12884,7 @@ cc_prebuilt_library_shared {
                 "libandroid_runtime",
                 "libui",
                 "libinput",
+                "libinput_shim",
                 "libnativehelper",
                 "libutils",
                 "liblog",
