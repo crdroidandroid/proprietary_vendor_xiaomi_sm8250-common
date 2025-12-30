@@ -218,7 +218,6 @@ PRODUCT_PACKAGES += \
     libadm \
     libadpcmdec \
     libaudcal \
-    libaudioparsers \
     libbatterylistener \
     libbluetooth_audio_session_qti \
     libbluetooth_audio_session_qti_2_1 \
@@ -234,7 +233,6 @@ PRODUCT_PACKAGES += \
     libgcs-osal \
     libgcs \
     libhdmiedid \
-    libhdmipassthru \
     libhfp \
     liblistensoundmodel2 \
     libmm-hdcpmgr \
