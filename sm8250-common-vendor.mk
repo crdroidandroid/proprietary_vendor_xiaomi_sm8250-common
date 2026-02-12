@@ -192,6 +192,7 @@ PRODUCT_PACKAGES += \
     btaudio_offload_if \
     sound_trigger.primary.kona \
     vendor.qti.hardware.bluetooth_audio@2.0-impl \
+    vendor.qti.hardware.bluetooth_audio@2.1-impl \
     libFileMux_proprietary \
     libOmxAacDec \
     libOmxAacEnc \
